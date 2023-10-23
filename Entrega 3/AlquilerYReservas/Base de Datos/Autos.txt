@@ -1,0 +1,3 @@
+lujo,AUU-123,Lamborghini,Veneno,negro,automatico,null,Sede_Chia,false,false,true,2023-10-23 05:45,nuncaAlquilado
+small,SHA-123,Renault,Twingo,rosado,manual,null,Sede_Cajica,false,false,true,2023-10-23 05:45,nuncaAlquilado
+van,SHY-000,Renault,kangoo,blanco,automatico,null,Sede_Bogota,false,false,true,2023-10-23 05:45,nuncaAlquilado
